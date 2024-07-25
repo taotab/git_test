@@ -1,0 +1,1 @@
+hi, this is my git practice with the odin project.
